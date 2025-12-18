@@ -10,8 +10,8 @@ The project is designed incrementally. A basic working chatbot skeleton was impl
 ### Project Structure
 ```
 chatbot/
-├── Main.java
-└── ChatbotApp.java
+├── chatbot.Main.java
+└── chatbot.ChatbotApp.java
 ```
 #### Explanation
 [To be updated]
